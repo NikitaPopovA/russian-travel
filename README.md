@@ -2,7 +2,7 @@
 
 <img src="https://github.com/NikitaPopovA/russian-travel/blob/main/images/russia-avatar.png" alt="Россия Аватар">
 
-<p>Ссылки</p>
+<p>Ссылки:</p>
 
 <a href="https://github.com/NikitaPopovA/russian-travel" target="_blank">Ссылка на проект</a>
 
@@ -12,20 +12,20 @@
 
 <p>HTML</p>
 <ol>
-  <li>Постраение по методалогии БЭМ</li>
-  <li>Семантика тегов</li>
+  <li>Постраение по методалогии БЭМ.</li>
+  <li>Семантика тегов.</li>
 </ol>
 
 <p>CSS</p>
 <ol>
-  <li>Flexbox</li>
-  <li>Grid</li>
-  <li>Адаптивная верстка под 4 размера экрана (1280, 1024, 768, 320)</li>
-  <li>БЭМ Nested</li>
-  <li>Работа с макетом в программе Figma</li>
+  <li>Flexbox.</li>
+  <li>Grid.</li>
+  <li>Адаптивная верстка под 4 размера экрана (1280, 1024, 768, 320).</li>
+  <li>БЭМ Nested.</li>
+  <li>Работа с макетом в программе Figma.</li>
 </ol>
 
 <p>Javascript</p>
 <ul>
-  <li>Отсутствует</li>
+  <li>Отсутствует.</li>
 </ul>
