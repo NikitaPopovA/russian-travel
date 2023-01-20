@@ -1,6 +1,6 @@
 <h1>Проект: «Путешествие по России»</h1>
 
-<img src="https://github.com/NikitaPopovA/russian-travel/blob/main/images/Main.png" alt="Россия Аватар">
+<img src="https://github.com/NikitaPopovA/russian-travel/blob/main/images/Main-avatar.png" alt="Россия Аватар">
 
 <p>Ссылки:</p>
 
