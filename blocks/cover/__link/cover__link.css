@@ -8,10 +8,10 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  width: 100%;
-  color:#FFFFFF;
   text-decoration: none;
-  position:relative;  
+  position:relative; 
+  width: 100%;
+  color:#fff; 
 }
 
 .cover__link::before {
