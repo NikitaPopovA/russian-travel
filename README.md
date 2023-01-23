@@ -4,7 +4,7 @@
 
 <p>Ссылки:</p>
 
-<a href="nikitapopova.github.io/russian-travel/" target="_blank">Ссылка на проект</a>
+<a href="https://nikitapopova.github.io/russian-travel/" target="_blank">Ссылка на проект</a>
 
 <a href="https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0" target="_blank">Ссылка на макет в Figma</a>
 
